@@ -1,0 +1,77 @@
+body{
+    background-color: #dcdcdc;
+    height: 700px;
+}
+h1
+{background-color:white;
+text-align: center;
+border-width: 100%;
+}
+.post1{
+    background-color: white;
+    background-size: 25%;
+    margin: 30px 0px 30px 0px;
+    padding: 7px 0px 7px 0px;
+    align-content: middle;
+    background-size: cover;
+}
+.post2{
+    background-color: white;
+    background-size: 25%;
+    margin: 30px 0px 30px 0px;
+    padding: 7px 0px 7px 0px;
+    align-content: middle;
+    background-size: cover;
+}
+.post3{
+    background-color: white;
+    background-size: 25%;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    padding: 7px 0px 7px 0px;
+    align-content: middle;
+    background-size: cover;
+}
+.container{
+    background-color:#dcdcdc;
+    align-content: space-around;
+    width: 400px;
+    height: 575px;
+    margin: auto;
+    }
+    .comentario{
+     text-shadow: -1px -1px #dcdcdc, 1px 1px #333;
+    font-size: 15px;
+    margin-left: 3px;
+    padding-top: 7px;
+    width: 45%;
+    justify-content: space-evenly;
+    align-items: center;
+    font-family:Arial, Helvetica, sans-serif;
+    }
+    .numerofoto{
+        font-size: 12px;
+        margin-right: 3px;
+        padding-top: 7px;
+        color:grey;
+        align-items: center;
+  font-family:Arial, Helvetica, sans-serif
+    }
+    .header{
+    display: flex;
+    align-items: center;
+    padding: 5px;
+    justify-content: space-between;
+        font-size: 12px;
+    }
+    img{
+        margin: 0;
+        padding: 0;
+        background-size: cover;
+        width: 100%
+    }
+    .footer{
+        border-top-color: grey;
+        border-spacing: 5px;
+        font-family:Arial, Helvetica, sans-serif;
+    }
